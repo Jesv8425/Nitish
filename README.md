@@ -1,5 +1,7 @@
 # Emergency Vehicle Detection Using ML
 
-- Setup your model in `/models` folder
-- Load your audio file to be detected in `/audio_files` folder
-- Run `python app.py`
+- Setup python venv
+- Activate venv
+- Run `pip install -r requirements.txt`
+- Run `python models.py`
+- Run `python App.py`
